@@ -5,12 +5,16 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-app.get('/', (req, res) => {
-    res.send('News API Running');
-});
-// category id 
+const categories = require('./data/categories.json');
 
+app.get('/', (req, res) => {
+    res.send('Course API Running');
+});
+
+app.get('/courses-categories', (req, res) => {
+    res.send(categories);
+});
 
 app.listen(port, () => {
-    console.log('Dragon news server running on port', port);
+    console.log('course server running on port', port);
 });
