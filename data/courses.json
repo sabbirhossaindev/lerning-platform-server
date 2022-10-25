@@ -1,6 +1,6 @@
 [
     {
-      "_id": "sa01",
+      "_id": "1",
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Web Development",
@@ -14,7 +14,7 @@
       "details": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
     },
     {
-      "_id": "sa02",
+      "_id": "2",
       "category_id": "02",
       "rating": { "number": 4.7, "badge": "Excellent" },
       "title": "App Development",
@@ -28,7 +28,7 @@
       "details": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer"
     },
     {
-      "_id": "sa03",
+      "_id": "3",
       "category_id": "03",
       "rating": { "number": 4.4, "badge": "Excellent" },
       "title": "SEO",
@@ -42,7 +42,7 @@
       "details": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic."
     },
     {
-      "_id": "sa04",
+      "_id": "4",
       "category_id": "04",
       "rating": { "number": 4.8, "badge": "Excellent" },
       "title": "Ethical Hacking",
@@ -56,7 +56,7 @@
       "details": "Certified Ethical Hacker is a qualification given by EC-Council and obtained by demonstrating knowledge of assessing the security of computer systems by looking for weaknesses and vulnerabilities in."
     },
     {
-      "_id": "sa05",
+      "_id": "5",
       "category_id": "05",
       "rating": { "number": 4.3, "badge": "Excellent" },
       "title": "Digital Marketing",
@@ -70,7 +70,7 @@
       "details": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services."
     },
     {
-      "_id": "sa06",
+      "_id": "6",
       "category_id": "06",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Graphic Design",
