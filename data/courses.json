@@ -4,84 +4,60 @@
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Web Development",
-      "author": {
-        "name": "Badon",
-        "published_date": "2022-10-24 17:27:34",
-        "img": "https://www.facebook.com/photo/?fbid=2984662671845871&set=a.1377420559236765"
-      },
-      "thumbnail_url": "https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif",
-      "image_url": "https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif",
-      "details": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+      "image_url": "",
+      "details": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+      "course_fee": "5500",
+      "duration": "6 month"
     },
     {
       "_id": "2",
       "category_id": "02",
       "rating": { "number": 4.7, "badge": "Excellent" },
       "title": "App Development",
-      "author": {
-        "name": "Monir",
-        "published_date": "2022-09-24 16:27:34",
-        "img": "https://scontent.fdac149-1.fna.fbcdn.net/v/t39.30808-6/311322230_973313814060217_7042480642846395211_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH2SOmrPk5O6dibfjH4_khsdUJAzb355N91QkDNvfnk316i9w3s7l3_zuxEDiBI-LgwlDeEosy4A61OZxm787jQ&_nc_ohc=UqIiRkxeK-oAX9oiZBO&_nc_ht=scontent.fdac149-1.fna&oh=00_AT8yfvRUtQPlHVCoJaziEgleNHckXgKWh0WkZR7ZamgdYg&oe=635D35E4"
-      },
-      "thumbnail_url": "https://uploads-ssl.webflow.com/5f841209f4e71b2d70034471/6078b650748b8558d46ffb7f_Flutter%20app%20development.png",
-      "image_url": "https://uploads-ssl.webflow.com/5f841209f4e71b2d70034471/6078b650748b8558d46ffb7f_Flutter%20app%20development.png",
-      "details": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer"
+      "image_url": "",
+      "details": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer",
+      "course_fee": "6500",
+      "duration": "6 month"
     },
     {
       "_id": "3",
       "category_id": "03",
       "rating": { "number": 4.4, "badge": "Excellent" },
       "title": "SEO",
-      "author": {
-        "name": "Jane Alom",
-        "published_date": "2022-11-24 13:27:34",
-        "img": "https://scontent.fdac149-1.fna.fbcdn.net/v/t39.30808-6/299797684_849594912690800_3077416736910364048_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEytBmezICdMB9YNDJFzN6E6fHKhWyfkiHp8cqFbJ-SIXfFDUzgLPc6cBeLx8nspVOUqPmLox_DRQ0rkRoxVOEj&_nc_ohc=f4UU5E0Rq1YAX-ch3yc&_nc_ht=scontent.fdac149-1.fna&oh=00_AT87hlK8BuiRvzCQJfYcUSduR3oWeawb2dD8g7W1eG_WbQ&oe=635CBA46"
-      },
-      "thumbnail_url": "https://statuslabs.com/wp-content/uploads/SEO-Pillar-Post-Art-.png",
-      "image_url": "https://statuslabs.com/wp-content/uploads/SEO-Pillar-Post-Art-.png",
-      "details": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic."
+      "image_url": "",
+      "details": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic.",
+      "course_fee": "5000",
+      "duration": "6 month"
     },
     {
       "_id": "4",
       "category_id": "04",
       "rating": { "number": 4.8, "badge": "Excellent" },
       "title": "Ethical Hacking",
-      "author": {
-        "name": "Nadim Joy",
-        "published_date": "2022-10-11 17:27:34",
-        "img": "https://scontent.fdac149-1.fna.fbcdn.net/v/t39.30808-6/270248774_132377355906934_1941706356422213468_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeG0K7PTFAalwe8b5EhgZvXYv_iZvJHmsne_-Jm8keayd-9KUqZ1o6136WyEA5g_524X5rDCLIHd3Sb87uii3HZF&_nc_ohc=DANVk_mygUAAX-lfeCa&tn=TZeONqfjb1l0MgTC&_nc_ht=scontent.fdac149-1.fna&oh=00_AT9GYfXPEcmnAlI-g3q5JphXAqrsTunTQMsntUew-BtnIA&oe=635BF511"
-      },
-      "thumbnail_url": "https://images.techopedia.com/images/uploads/dreamstime_m_123641233.jpg",
       "image_url": "https://images.techopedia.com/images/uploads/dreamstime_m_123641233.jpg",
-      "details": "Certified Ethical Hacker is a qualification given by EC-Council and obtained by demonstrating knowledge of assessing the security of computer systems by looking for weaknesses and vulnerabilities in."
+      "details": "Certified Ethical Hacker is a qualification given by EC-Council and obtained by demonstrating knowledge of assessing the security of computer systems by looking for weaknesses and vulnerabilities in.",
+      "course_fee": "6000",
+      "duration": "6 month"
     },
     {
       "_id": "5",
       "category_id": "05",
       "rating": { "number": 4.3, "badge": "Excellent" },
       "title": "Digital Marketing",
-      "author": {
-        "name": "Sabbir Hossain",
-        "published_date": "2022-19-14 17:27:34",
-        "img": "https://scontent.fdac149-1.fna.fbcdn.net/v/t39.30808-6/299388692_437130011847679_4304949943721239341_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeH-X6Z_lRSuXdBZ-rtFYRcLvjDkOiF6I1a-MOQ6IXojVrLjnx76d4uukidUQfh8bQigTxMW0xG16GYRIbSp7eVX&_nc_ohc=A3kGwv27E9QAX-xpjjD&_nc_ht=scontent.fdac149-1.fna&oh=00_AT9crIXn87UKhL4g2hw_T7uEvUxzAAzJQc2KUpZjRudeNQ&oe=635CE99B"
-      },
-      "thumbnail_url": "https://marketbusinessnews.com/wp-content/uploads/2018/08/Digital-Marketing.jpg",
-      "image_url": "https://marketbusinessnews.com/wp-content/uploads/2018/08/Digital-Marketing.jpg",
-      "details": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services."
+      "image_url": "",
+      "details": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services.",
+      "course_fee": "4500",
+      "duration": "4 month"
     },
     {
       "_id": "6",
       "category_id": "06",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Graphic Design",
-      "author": {
-        "name": "Md Showrov Hasan",
-        "published_date": "2022-10-24 17:27:34",
-        "img": "https://scontent.fdac149-1.fna.fbcdn.net/v/t1.6435-9/151697482_875761856612001_1088110214058744177_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFb3Atpy89BLnZs_P0nkzjht8mpJ5g-DO63yaknmD4M7kpxMBYq68i_AiTh01drUPP8NdMF11GiUWf3uaRVXjSW&_nc_ohc=K3DNYSxBM8gAX9ARQbm&_nc_ht=scontent.fdac149-1.fna&oh=00_AT-xmmsD_WdChejgafBsbSezoYGTFeRI68xA_HeVC29q8w&oe=637E79C3"
-      },
-      "thumbnail_url": "https://gdj-inr5u0ip5pewom.stackpathdns.com/wp-content/uploads/2018/11/what-is-graphic-design.jpg",
-      "image_url": "https://gdj-inr5u0ip5pewom.stackpathdns.com/wp-content/uploads/2018/11/what-is-graphic-design.jpg",
-      "details": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts"
+      "image_url": "",
+      "details": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts",
+      "course_fee": "5500",
+      "duration": "6 month"
     }
     
   ]
