@@ -1,63 +1,57 @@
 [
     {
       "_id": "1",
-      "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Web Development",
-      "image_url": "",
+      "image_url": "https://i.ibb.co/h83PZhy/web-developer.gif",
       "details": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
       "course_fee": "5500",
       "duration": "6 month"
     },
     {
       "_id": "2",
-      "category_id": "02",
       "rating": { "number": 4.7, "badge": "Excellent" },
       "title": "App Development",
-      "image_url": "",
+      "image_url": "https://i.ibb.co/g3DcnpT/app-development.gif",
       "details": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer",
       "course_fee": "6500",
       "duration": "6 month"
     },
     {
       "_id": "3",
-      "category_id": "03",
       "rating": { "number": 4.4, "badge": "Excellent" },
       "title": "SEO",
-      "image_url": "",
+      "image_url": "https://i.ibb.co/yp4GzDH/SEO.gif",
       "details": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic.",
       "course_fee": "5000",
       "duration": "6 month"
     },
     {
       "_id": "4",
-      "category_id": "04",
       "rating": { "number": 4.8, "badge": "Excellent" },
       "title": "Ethical Hacking",
-      "image_url": "https://images.techopedia.com/images/uploads/dreamstime_m_123641233.jpg",
+      "image_url": "https://i.ibb.co/kmfBYZJ/anti-hacking.gif",
       "details": "Certified Ethical Hacker is a qualification given by EC-Council and obtained by demonstrating knowledge of assessing the security of computer systems by looking for weaknesses and vulnerabilities in.",
       "course_fee": "6000",
       "duration": "6 month"
     },
     {
       "_id": "5",
-      "category_id": "05",
       "rating": { "number": 4.3, "badge": "Excellent" },
       "title": "Digital Marketing",
-      "image_url": "",
+      "image_url": "https://i.ibb.co/Zc68990/digital-marketing-1.gif",
       "details": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services.",
       "course_fee": "4500",
       "duration": "4 month"
     },
     {
       "_id": "6",
-      "category_id": "06",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Graphic Design",
-      "image_url": "",
+      "image_url": "https://i.ibb.co/RcHvkj6/graphic-design.gif",
       "details": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts",
       "course_fee": "5500",
       "duration": "6 month"
     }
     
-  ]
+]
