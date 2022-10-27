@@ -21,7 +21,7 @@
       "_id": "3",
       "rating": { "number": 4.4, "badge": "Excellent" },
       "title": "SEO",
-      "image_url": "https://i.ibb.co/yp4GzDH/SEO.gif",
+      "image_url": "https://i.ibb.co/fQFpwFD/seo.jpg",
       "details": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic.",
       "course_fee": "5000",
       "duration": "6 month"
@@ -30,7 +30,7 @@
       "_id": "4",
       "rating": { "number": 4.8, "badge": "Excellent" },
       "title": "Ethical Hacking",
-      "image_url": "https://i.ibb.co/kmfBYZJ/anti-hacking.gif",
+      "image_url": "https://i.ibb.co/DLKSrVB/Ethical-Hacking.jpg",
       "details": "Certified Ethical Hacker is a qualification given by EC-Council and obtained by demonstrating knowledge of assessing the security of computer systems by looking for weaknesses and vulnerabilities in.",
       "course_fee": "6000",
       "duration": "6 month"
@@ -39,7 +39,7 @@
       "_id": "5",
       "rating": { "number": 4.3, "badge": "Excellent" },
       "title": "Digital Marketing",
-      "image_url": "https://i.ibb.co/Zc68990/digital-marketing-1.gif",
+      "image_url": "https://i.ibb.co/C2JPF9F/Digital-Marketing.png",
       "details": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services.",
       "course_fee": "4500",
       "duration": "4 month"
